@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Yuri Souza 👋🚀</h1>
 
-<h3 align="center">Estudante de Engenharia de Software | 4º Período</h3>
+<h3 align="center">Estudante de Engenharia de Software |</h3>
 
 <p align="center">
   🎓 Cursando Engenharia de Software no IFAM (CMZL)<br/>
